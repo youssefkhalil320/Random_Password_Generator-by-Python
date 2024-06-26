@@ -14,7 +14,7 @@ cd Random_Password_Generator-by-Python
 
 # Usage 
 - after running the GUI.py file you are presented with this tkinter window where you will be <br> prompted to input the given password length :<br/>
- <br>![alt text](image.png)<br/>
+<br>![alt text](image.png)<br/>
 - after inputting a number greater than or equal than 6, the program will generate the random password <br>with different symbols and characters alike for the user :<br/>
 <br>![alt text](image-1.png)<br/>
 
