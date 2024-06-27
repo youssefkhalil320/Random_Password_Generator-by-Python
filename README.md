@@ -12,6 +12,22 @@ cd Random_Password_Generator-by-Python
 ```
 - now you can run the python files in your terminal
 
+# Anaconda Virtual Environment Creation (Optional)
+- first things first you need to install the anaconda distribution through their official website and make sure to include the bin files the PATH : https://www.anaconda.com/download
+
+- then after cloning the repo in your device you should run this script to use the already setup virtual environment : 
+```
+cd abooleehvenv && conda activate "abooleehvenv"
+```
+- or if you prefer to create your own virtual environment with your preferred python version you could run this script instead :
+```
+conda create -p venvname python==3.x -y && conda activate "venvname"
+```
+- to deactivate the virtual environment in your project just run this script :
+```
+conda deactivate
+```
+
 # Usage 
 - after running the GUI.py file you are presented with this tkinter window where you will be <br> prompted to input the given password length :<br/>
 <br>![alt text](image.png)<br/>
