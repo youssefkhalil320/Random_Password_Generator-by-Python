@@ -1,6 +1,3 @@
-#external libraries
-tkinter
-# Python version requirement
-python_version >= "3.8"
+tkinter==8.6.8
 
 
