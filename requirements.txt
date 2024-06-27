@@ -1,4 +1,3 @@
-#external libraries
-tkinter == 8.6.8
+tkinter==8.6.8
 
 
