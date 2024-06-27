@@ -13,7 +13,7 @@ cd Random_Password_Generator-by-Python
 - now you can run the python files in your terminal
 
 # Anaconda Virtual Environment Creation (Optional)
-- first things first you need to install the anaconda distribution through their official website and make sure to include the bin files the PATH : https://www.anaconda.com/download
+- first things first you need to install the anaconda distribution through their official website and make sure to include the bin files in the PATH : https://www.anaconda.com/download
 
 - then after cloning the repo in your device you should run this script to use the already setup virtual environment : 
 ```
